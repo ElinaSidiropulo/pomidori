@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pomidori/static/css/main.310ef90a.css",
+    "main.js": "/pomidori/static/js/main.3c9f8b1e.js",
+    "index.html": "/pomidori/index.html",
+    "main.310ef90a.css.map": "/pomidori/static/css/main.310ef90a.css.map",
+    "main.3c9f8b1e.js.map": "/pomidori/static/js/main.3c9f8b1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.310ef90a.css",
+    "static/js/main.3c9f8b1e.js"
+  ]
+}
